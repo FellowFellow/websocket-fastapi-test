@@ -1,0 +1,20 @@
+---
+# subscribe to channels
+channels:
+  - dashboard
+  - pending_docs
+
+---
+# unsubscribe from dashboard
+channels:
+  - pending_docs
+
+---
+# data response
+dashboard: 
+  - list
+  - of
+  - dashboard
+  - docs
+pending_docs:
+  pending_docs_data
